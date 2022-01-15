@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cintiapizzatto@hotmail.com
+	name = Cintia Pizzatto
